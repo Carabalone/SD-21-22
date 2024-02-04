@@ -1,0 +1,5 @@
+pt/tecnico/distledger/adminclient/grpc/AdminService.class
+pt/tecnico/distledger/adminclient/AdminClientMain.class
+pt/tecnico/distledger/adminclient/CommandParser.class
+pt/tecnico/distledger/adminclient/Communication.class
+pt/tecnico/distledger/adminclient/exceptions/ServerDoesNotExistException.class

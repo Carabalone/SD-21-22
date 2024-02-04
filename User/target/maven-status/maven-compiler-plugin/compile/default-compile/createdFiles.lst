@@ -1,0 +1,5 @@
+pt/tecnico/distledger/userclient/CommandParser.class
+pt/tecnico/distledger/userclient/Communication.class
+pt/tecnico/distledger/userclient/exceptions/ServerDoesNotExistException.class
+pt/tecnico/distledger/userclient/UserClientMain.class
+pt/tecnico/distledger/userclient/grpc/UserService.class
